@@ -1,0 +1,19 @@
+{
+  "name": "Firefly",
+  "short_name": "Firefly",
+  "description": "Tap to fly a glowing firefly through a dark forest.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#050814",
+  "theme_color": "#050814",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAgMAAAAvsoSUAAAACVBMVEX/0WYeGBIKDx4LoW4QAAACAUlEQVR42u2YPXLCMBCFVxoKDRUF6ak5hQ+RgpKj6CgpmUwO4VNQuw9FqowKRk4BE2Rpf+SxnWQm68Y27Ke3+2TJsswrjDssKKCAAgoooIACCvwhYIX/fPZgT+g/Blv+xAMAAOx9bUqHu0xtDecMlIDoyysWOCBaHPCZ3hwrgC69CTIwzLusogACo4cCR6YiDIh5gBeAwHqAAEfW5RKIZU95Fih9z3OygotFG5b3pMzSSiXkjUycBAIW0jFAhwGBAbBRnxU2rYaIx3gSCDjQzZdSh8cEEvA4EGdLKVJBfokXytNzBZC4YRrT4O4RCluArayQNNQAGLwjcAVzh6qLXgEAbETgYfdm+IKN8/dD810IB0S6WS8omERnmcXJKvHqV9dLgY7qBIUNs5bSZei/Bj5up+vcCo6O2s1dw3VQyhIu9bdTO7dCctkmOjUz3/hH44PsaOL9cB26akWFnjSJqqEd1EwByRNzAbjgTxmh0Ld9KyukDb2/4dI/PETt8uslXxFjiaELhHsTU3LinMHlV7P2Hl9xXg6xINrkGMCJNU+twY7+jpP3JSxIVTsWcFLNgqD8PQ0vefxaGKJOyKgA7NhdhzyntThrOMHnArCevsN93PH9UgJr1mWsp5Ltun3VVPnI2/oq4NHuqXYyPpEJETuJo7cedRmqgAIKKKCAAhXHF/S4YienvLmdAAAAAElFTkSuQmCC",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
