@@ -10,8 +10,14 @@
   "theme_color": "#050814",
   "icons": [
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADABAMAAACg8nE0AAAAHlBMVEXh6/r/1m5/az5rWzhXSzJDOywvKyUjGxQbGx8IDBqSq0s0AAAEsUlEQVR42u2aO5LbOBCGf7BkjlVOwBuweAX7AA6matNNnCuSUwZ7gAk31IZ2NEfQ5hPoAlvlE6gUOiOzKUua4QYgCBDCowlxasdeKOEDYH/4uxsAAZF9wcv+MiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAiRAAvxKgMWUyl0LAGD8ZQDNwGlQzA9ojKti3hh0zQWwnRPQtbR7sQC7LRphMcX+80E0qpT3+SwAaX8vbzzvUZEJBBe10qr22wst3RwxaHSL0FRcJm8UoBu7RxOhybsG0Drs9ze7a4PcjewLj8hOvK8AhOKcETLoWfbm3uON7MUHQm/Iwg7qs18fG/qR4/kQdlIWdtDBli89IRxnfwy+3wHA2uaIhnHgKwC8/ctngnn+w3ms5dnalu/FV3m23EQBPmvnb36/yKLTViv/EhED3b6wprLItD+uTAMYj5y2+pzTtGP7HoIL8GjeOI3C3G3N8noi4LL+Tr84h1vkB1iqn0VnFt14R2mSD2CrvetEZ+6a9kxrkxtgrXweotDtqI1yAex1v8mTJ3qr7ACH2idgcXv7USMRmpXRBQDfbj8Ci9sngC5h0tv1H+Lw27Wv766UvgkprK9UUF+QIhXUAQHOGo/XKaitrPmWUDeUPCMBHuMXZPU1CmqnnJ9kGXtD6+yvWEHtFfQTKLihjrivQcEy3trm/7JftKGMMrY8Xb4WBcsZY/wfBXkTZ2tJBizn85DDRZvZBDgAy9kEuIJ8N93+20nrZEdtHO+Rrya1yZWmdy77ON5PalJGFCwcfA8ARwDAD6JTnR3tT5sAKAyhug/AgfWoWqlZPqo7w14DwCYP12sVzarUBPSgrBqK83Xcbkv+Sazn3zv2/t7jH7GPUURv57z51LXoWvD2pPv+CGALBnzgwb1+t4tKQDzL3E8PFbKpAHZxaWxOnKR1AzZ5PmDiUW4tYW67BECm62A4jUu3mmUOlJMBXDuxNpSpMm+k/C7imr3tOAQcIdNBQKm3FBwYOl4ubitl2XQAMy/YKAhbbrqNT1eQjZqPYpvLktWpwEhEGf3qyJUdvJM+yvE3FJlFpqlql5TAdr2E1ZlrAsyMnqaA6cezkJCLHTsecH4I0A8w0gccAB7yFZCvHgZkX1p6MJS/uXgLMN4CeFiscRb2ebAHhAC8RXlQnhbGhHWpqI+OLwT+GGRaiMf/jhbQwlzG9eT+USb9gWLwMysGL3HVjMkKuDqw3i7XDlqBLxiLYI4xGeeh6ZpRHvKQT4F0L4ftX/Yhjfwe8gaZaxJMAuOaABa5jNUlGARxRRDgT1MpgZv+LxQzICC8CCxVkhTF+Mgpzy9CQ10GAEWj9a9RZytDw114Tq4cQyZDXxg9J8tnSyMAWhiy8HgdntH6F3WDUAyv8LEzmpaOGcZD0SCoBK54+TU8DTCVRcJoRZjQwhMObwFUe0sWVeG3LkoeM2Vs/KsoMzJlt6XQFlHacxUsoY/bzuEwlmSKR5iUCZM+6yeDyvy2hfSpFOWtQhIMFbRPsUg7XnZLtE+9aFtqNlvET8mIe3aOsQjzxKBPyOYid2cFAMVLf2dnc9RsMYj/JUACJEACJEACJEACJEACJEAC/DqAfwGP//urz3Rs/wAAAABJRU5ErkJggg==",
+      "src": "icon-192.png",
       "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
